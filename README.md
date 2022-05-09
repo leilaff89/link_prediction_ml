@@ -23,5 +23,6 @@ Before training the models, the data were standardized using Sklearn's StandarSc
 
  It is an important step because the models perform better with data in a standardized range, avoiding giving greater weight to data with larger scales. Standardization scales the data by subtracting the mean and dividing by the standard deviation, which results in a distribution with a standard deviation and a variance of 1.
 Finally, six different models were trained and tested to classify links. After testing, considering computational time and metrics, the K-Nearest Neighbors and the Decision Tree Classifier were selected. The metrics applied were accuracy, confusion matrix, mean squared error and F1 score.
-Notebooks can be found at the following link:
-https://github.com/leilaff89/link_prediction_ml
+
+
+Notebooks can be found at this repository!
