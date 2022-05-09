@@ -2,6 +2,9 @@
 
 ## Network Science
 ### Challenge Part II
+
+![image](https://user-images.githubusercontent.com/88637523/167493735-db9c5099-94c3-406e-a6a8-8496a67963d3.png)
+
 Link prediction strategy:
 
 • Obtain a sample of existing links (edges);
